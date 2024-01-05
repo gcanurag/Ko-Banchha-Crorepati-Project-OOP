@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Anish\Project\TestProject2\main.cpp(22,63): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Anish\Project\TestProject2\main.cpp(22,49): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  TestProject2.vcxproj -> D:\Anish\Project\TestProject2\x64\Debug\TestProject2.exe
